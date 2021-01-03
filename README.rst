@@ -1,6 +1,6 @@
-**************************
+*******************************
 BlockerDocs Documentation Test!
-**************************
+*******************************
 
 .. image:: https://img.shields.io/pypi/v/sphinx_rtd_theme.svg
    :target: https://pypi.python.org/pypi/sphinx_rtd_theme
