@@ -4,8 +4,8 @@
    :caption: Principles
    :maxdepth: 2
 
-   principles
-   installing
+   fundamentals/principles
+   fundamentals/whatisthis
 
 .. toctree::
    :caption: Ecosystem
