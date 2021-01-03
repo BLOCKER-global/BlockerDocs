@@ -13,3 +13,4 @@
    ecosystem/dashboard
    ecosystem/builder
    ecosystem/blockerhub
+   ecosystem/docs

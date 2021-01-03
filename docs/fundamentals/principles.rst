@@ -2,53 +2,31 @@
 Principles
 **********
 
-We discuss here two broad categories of principles:
-1) Cultural Principles
-2) Functional Principles
-
-
-Cultural Principles
-===================
-The cultural principles are the DNA of Blocker's decision making. This is the “true nature” of Blocker.
+Our principles are the DNA of Blocker's decision making.
 
 Radical Truth and Transparency
-------------------------------
- 
-Fail Transparently and extend the learning to others.  Education is a first class concern.
-
-User Focused
-------------
-The users of Blocker are anybody who is intrigued to be more effective in this world.
-
-
-Blocker Functional Principles
-=============================
+==============================
+Fail and succeed transparently and extend the learning to others.  Education is a first class concern for the community - both Users and Developers.
 
 Self Sovereign
 ===============
 This is arguably the single most important feat to accomplish, while simultaneously the most susceptible to risk and conflict.
-Blocker is **for all people** and by **all people**.  The data produced is decentralized and accessible to those who the user selects.
+Blocker is for **all people** and by **all people** with equal opportunities and abilities regardless of race, creed, or nationality.  The economic growth, and social freedoms afforded by use of powerful free/libre open source tools (such as Blocker) is in the purview of the worlds people and *not* the fraud and collusion of fiat nations who are destroying this world.
 
-Privacy
-=======
+Privacy, Decentralization, Immutability, and User Rights.
+=========================================================
+One of Blocker's core value propositions is the immediately actionable data that are produced by deployments.  The "classic" business model in this fucked up world is to sell more and more intimate user data to the highest bidders amongst advertisers, insurance companies, and marketers.
 
-
-Decentral
----------
-
+Blocker is commited to ensuring that the user retains agency of their data and that it is never held by a centralized party.
 
 Inversion of Ownership
 ======================
-Blocker arose partially out of
+Blocker arose partially out of disgust for the 2008 housing crisis endemic to the fraud and corruption of the "holding class".  I.e. the 0.1% who hold 99.9% of material assets on this planet.  Blocker is architected to shift those scales by increasing the granularity of assets which make up human infrastructure enabling these assets to be distributed.
 
 Mobility of Lifestyle
 =====================
-Blocker exists in a similar "alternate lifestyle" space as "Van Life" and will afford people exponentially more freedom in location and context for their lives.
-
-Data Driven (And immutable)
-===========================
-One of Blocker's core value propositions is the data that are produced by deployments.
+Blocker living is an "alternate lifestyle" apealing for some of the same reasons as "Van Life" and will afford people exponentially more freedom in location and context for their lives, while maintaining infinite degree of freedom to expand in functionality which is not afforded by the space constraints of life in Vans and Box Trucks.
 
 Trust and Integrity
 ===================
-Blocker will ultimately be a global and communally run platform.  There are service providers and service receivers making up the "guts" of the fully actualized embodiment of blocker.global   The service providers and recipients must be able to trust in each others degree of competence, grace, and respect.
+Blocker will ultimately be a global and communally run platform.  There are service providers and service receivers making up the "guts" of the fully actualized embodiment of `blocker.global`  The service providers and recipients must be able to trust in each others degree of competence, grace, and respect, and to feel safe within their network.
