@@ -2,10 +2,6 @@
 What is Blocker?
 ****************
 
-"Blocker" takes its name from the software containerization framework called "Docker" which has uterly terraformed modern software design via a novel approach to encapsulation functionality.  As such Blocker shamelessly rips off much of the inovation which Docker spearheaded in the purely abstract space of software design.  Blocker applies these same inovations in the concrete (and messy) domain of physical reality.
-
-"It works on my machine" (Docker) --> "It works in my Nation, economic, and environmental context" (Blocker)
-
 Blocker is a Language
 =====================
 Broadly, Blocker is a declarative, and fully general *language* to codify human infrastructure.
