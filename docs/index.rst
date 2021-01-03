@@ -1,11 +1,10 @@
 .. include:: ../README.rst
 
 .. toctree::
-    :maxdepth: 2
-    :numbered:
-    :caption: Principles
+   :caption: Principles
+   :maxdepth: 2
 
-    principles
+   principles
 
 
 .. toctree::
