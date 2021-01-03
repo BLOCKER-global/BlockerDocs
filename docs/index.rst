@@ -1,6 +1,14 @@
 .. include:: ../README.rst
 
 .. toctree::
+    :maxdepth: 2
+    :numbered:
+    :caption: Principles
+
+    principles
+
+
+.. toctree::
    :caption: Theme Documentation
    :maxdepth: 2
 
@@ -8,11 +16,14 @@
    configuring
    contributing
 
+
 .. toctree::
    :maxdepth: 1
    :hidden:
 
    changelog
+
+
 
 .. toctree::
     :maxdepth: 2
@@ -23,6 +34,7 @@
     demo/demo
     demo/lists_tables
     demo/api
+
 
 .. toctree::
     :maxdepth: 3
