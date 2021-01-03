@@ -5,10 +5,11 @@
    :maxdepth: 2
 
    principles
+   installing
 
 .. toctree::
    :caption: Ecosystem
 
-   dashboard
-   builder
-   blockerhub
+   ecosystem/dashboard
+   ecosystem/builder
+   ecosystem/blockerhub
